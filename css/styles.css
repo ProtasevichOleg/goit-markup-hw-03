@@ -321,11 +321,11 @@ img {
   color: var(--white-text-color);
 }
 
-.navigation-item .link.active,
-.navigation-item:hover,
-.navigation-item:focus,
-.header-list-item:hover,
-.header-list-item:focus,
+.navigation-link.active,
+.navigation-link:hover,
+.navigation-link:focus,
+.header-list-link:hover,
+.header-list-link:focus,
 .footer-address-item:hover,
 .footer-address-item:focus {
   color: var(--accent-color);
