@@ -52,6 +52,10 @@ img {
   color: inherit;
 }
 
+.link:focus {
+  outline: inherit;
+}
+
 .title {
   color: var(--title-text-color);
 }
@@ -185,6 +189,7 @@ img {
 .hero-btn:hover,
 .hero-btn:focus {
   opacity: 0.9;
+  outline: inherit;
 }
 
 /* --------------FEATURES----------------- */
